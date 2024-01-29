@@ -1,0 +1,17 @@
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CopyComplete
+D:\Employee Management System\DemoEmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
